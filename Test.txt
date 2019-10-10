@@ -4,6 +4,6 @@
 4 - CincoSeis
 5 - SetePascoa
 6 - EMP
-7 - PitStop
-8 - PizzaComLeite
+7 - Opa
+8 - Pizza
 9 - Sfosfosd
